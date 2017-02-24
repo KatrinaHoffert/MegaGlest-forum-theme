@@ -3,7 +3,7 @@
 	<id>omega:glest_theme_3.12</id>
 	<version>3.12</version>
 	<name>Glest Theme Version 3.12</name>
-	<author name="omega">m.l.hoffert@gmail.com</author>
-	<website>http://www.glest.org/</website>
+	<author name="omega">kat.hoffert@gmail.com</author>
+	<website>https://megaglest.org/</website>
 	<layers>html,body</layers>
 </theme-info>
